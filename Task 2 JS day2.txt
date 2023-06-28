@@ -1,0 +1,1 @@
+doucment object is what we can change and window object is what we cannot change. The window object represents a window/tab containing a DOM document where as document object is property of window object that points to the DOM document loaded in that window. You can access a document object either using window.
